@@ -208,3 +208,4 @@ References:
 - https://uceka.com/2014/05/12/wireless-penetration-testing-cheat-sheet
 - https://github.com/koutto/pi-pwnbox-rogueap
 - https://github.com/P0cL4bs/wifipumpkin3
+- https://gist.github.com/s4vitar/3b42532d7d78bafc824fb28a95c8a5eb#cracking-con-pyrit
